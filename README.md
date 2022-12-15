@@ -1,5 +1,5 @@
 # Introduction
-The `app.py` script makes use of Google Translate to generate images using stable diffusion 2.1 in all languages supported by Google's translation service.
+A python script that uses Google Translate and Stable Diffusion to assist people in creating images in their native languages.
 
 ## Motivation
 My wife wanted to describe a picture in the Albanian language.
