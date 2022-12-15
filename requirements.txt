@@ -1,0 +1,5 @@
+diffusers==0.11.0.dev0
+googletrans==4.0.0rc1
+InquirerPy==0.3.4
+torch==1.13.0
+unicode_slugify==0.1.5
