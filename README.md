@@ -30,5 +30,5 @@ pip install -r requirements.txt
 This project depends on the great work done by the following projects & their authors.
 - [Stable Difusion 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
 - [py-googletrans](https://github.com/ssut/py-googletrans)
-- [PyInquirer](https://github.com/kazhala/InquirerPy)
+- [gradio](https://gradio.app)
 - [slugify](https://github.com/slugify/slugify)
