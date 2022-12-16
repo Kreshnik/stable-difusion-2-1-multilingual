@@ -19,6 +19,11 @@ pip install --upgrade git+https://github.com/huggingface/diffusers.git transform
 pip install -r requirements.txt
 ``
 
+## Usage
+``
+python app.py
+``
+
 ## Demo
  ![Demo](demo.png)
 
